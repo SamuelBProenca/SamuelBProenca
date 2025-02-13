@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I am [Your Name], a fullstack developer in constant growth and learning.
+Hello! I am Samuel Proença, a fullstack developer in constant growth and learning.
 
 ### Technologies I use:
 - **Front-end**: HTML, CSS, JavaScript, React, Next.js
