@@ -7,9 +7,9 @@
 Hello! I am Samuel Proença, a fullstack developer in constant growth and learning.
 
 ### Technologies I use:
-- **Front-end**: HTML, CSS, JavaScript, React, Next.js
-- **Back-end**: Node.js, Python, Java, C, C#, SQL, MySQL, MongoDB
-- **Others**: Git, Docker, RESTful APIs
+- **Front-end**: HTML, CSS, JavaScript, React, Next.js, Typescript
+- **Back-end**: Node.js, Python, Java, C, C#, SQL, MySQL, MongoDB, Typescript
+- **Others**: Git, GitHub, Docker, RESTful APIs
 
 I have some old projects that I will be revisiting and updating, and I plan to bring more projects in all the mentioned languages. I am constantly studying to improve myself as a fullstack developer and explore new technologies and methodologies.
 
